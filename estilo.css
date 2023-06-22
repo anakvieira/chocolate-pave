@@ -3,7 +3,8 @@ html {
 }
 body {
     font-family: Verdana;
-    margin: 0px 550px;
+    max-width: 800px;
+    margin: 0 auto;
     text-align: left;
     border: 2px solid rgb(209, 138, 138);
     padding: 30px;
